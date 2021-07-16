@@ -4,6 +4,9 @@ public class MainFigura2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		//Esta bien hecho
+		
 		System.out.println("Ingrese el número de filas: ");
 		Scanner teclado = new Scanner(System.in);
 		int N = teclado.nextInt();
